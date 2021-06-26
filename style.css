@@ -1,0 +1,136 @@
+.ig{
+    position: absolute;
+    width: 691px;
+    height: 825px;
+    left: 196px;
+    top: 127px;
+    
+    background: url(.jpg);
+    box-shadow: 0px 4px 13px 10px rgba(0, 0, 0, 0.25);
+    border-radius: 15px;
+}
+.ig1{
+    position: absolute;
+    width: 692px;
+    height: 548px;
+    left: 196px;
+    top: 404px;
+
+    background: #FFFFFF;
+    border-radius: 15px;
+}
+.ig2{
+    position: absolute;
+    left: 8.33%;
+    right: 8.33%;
+    top: 8.33%;
+    bottom: 8.33%;
+    
+    background: #000000; 
+}
+.ig3{
+    position: absolute;
+    left: 8.33%;
+    right: 8.33%;
+    top: 8.33%;
+    bottom: 8.33%;
+
+    background: #000000;
+}
+.yare{
+    position: absolute;
+    width: 67px;
+    height: 18px;
+    left: 475px;
+    top: 894px;
+    
+    font-family: PT sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 18px;
+    
+    color: #000000;
+    
+}
+.yare1{
+    position: absolute;
+    width: 67px;
+    height: 18px;
+    left: 597px;
+    top: 893px;
+    
+    font-family:PT sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 18px;
+    
+    color: #000000;
+}
+.frase{
+
+    position: absolute;
+    width: 426px;
+    height: 93px;
+    left: 337px;
+    top: 723px;
+    
+    font-family: PT Sans Caption;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 31px;
+    text-align: center;
+    
+    color: #000000;
+    
+}
+.desing{
+    position: absolute;
+    width: 224px;
+    height: 47px;
+    left: 438px;
+    top: 629px;
+    
+    font-family: PT sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 47px;
+    
+    color: #000000;
+    
+}
+.name{
+    position: absolute;
+    width: 328px;
+    height: 62px;
+    left: 386px;
+    top: 567px;
+    font-family:PT sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 62px;
+
+    color: #000000;
+}
+.ig4{
+    position: absolute;
+    width: 305px;
+    height: 305px;
+    left: 389px;
+    top: 252px;
+
+    background: #F1EAEA;
+}
+.ig5{
+    position: absolute;
+    width: 287px;
+    height: 287px;
+    left: 398px;
+    top: 261px;
+
+    background: url(.jpg);
+}
